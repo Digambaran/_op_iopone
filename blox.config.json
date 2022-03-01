@@ -1,0 +1,1 @@
+{"name":"iopone","type":"shared-fn","source":{"https":"https://github.com/Digambaran/_op_iopone","ssh":"git@github.com:Digambaran/_op_iopone.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
